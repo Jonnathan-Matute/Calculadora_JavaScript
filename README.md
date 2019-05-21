@@ -15,6 +15,7 @@
 • Diseño de las páginas HTML usando CSS
 
 CSS utilizados
+
 ![css](https://user-images.githubusercontent.com/34014602/58107409-62e24500-7baf-11e9-8d93-f7022cad60a0.png)
 
 Resultado de los CSS y su funcionamiento
