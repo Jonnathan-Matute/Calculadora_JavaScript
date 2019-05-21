@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="UTF-8">
@@ -21,8 +21,8 @@
             <td><input class="button" type="button" value="1/x" onclick="pantalla.value+='1/'"></td>
         </tr>
         <tr>
-            <td><input class="button" type="button" value="(" onclick="pantalla.value+='('"></td>
-            <td><input class="button" type="button" value=")" onclick="pantalla.value+=')'"></td>
+            <td><input class="button" type="button" value="CE" onclick="pantalla.value=''"></td>
+            <td><input class="button" type="button" value="C" onclick="pantalla.value=''"></td>
             <td><input class="button" type="button" value="⌫" onclick="regresar(pantalla.value)"></td>
             <td><input class="button" type="button" value="&divide;" onclick="pantalla.value+='/'"></td>
         </tr>
@@ -45,9 +45,9 @@
             <td><input class="button" type="button" value="+" onclick="pantalla.value+='+'"></td>
         </tr>
         <tr>
-            <td><input class="button" type="button" value="C" onclick="pantalla.value=''"></td>
+            <td><input class="button" type="button" value="&plusmn;" onclick="pantalla.value+='-'"></td>
             <td><input class="button numero" type="button" value="0" onclick="pantalla.value+='0'"></td>
-            <td><input class="button" type="button" value="," onclick="pantalla.value+='.'"></td>
+            <td><input class="button" type="button" value="." onclick="pantalla.value+='.'"></td>
             <td><input class="button" type="button" value="=" onclick="operar(pantalla.value)"></td>
         </tr>
 
