@@ -29,3 +29,7 @@ Conclusiones
 - JavaScript, destaca su capacidad de integrarse a la perfección con el sistema operativo y con la mayoría de los navegadores web, ofreciendo una versatilidad absoluta que muy pocos lenguajes tienen y, al ser ejecutado del lado del cliente, aligera la carga del servidor creando aplicaciones y sitios web bastante ligeros.
 
 - JavaScript es uno de esos lenguajes de programación que es necesario conocer, para aumentar considerablemente  las capacidades de nuestros sitios web.
+
+Firma del estudiante
+
+![Firma](https://user-images.githubusercontent.com/34014602/58108106-d89ae080-7bb0-11e9-9ac4-28723a9a7dae.png)
